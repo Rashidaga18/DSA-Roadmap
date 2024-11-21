@@ -24,10 +24,9 @@ v.  [Medium]  [Maximum Subarray (Kadane's Algorithm)]  (https://leetcode.com/pro
 <br>
 Placement Aptitude:
 
-Number Series - Easy
-<br>
-Simple and Compound Interest - Medium
-<br>
++ Number Series - Easy
++ Simple and Compound Interest - Medium
+***
 # Week 2 : String Basics and Aptitude - Logical Reasoning
 **Topics:**
 
@@ -51,10 +50,9 @@ v.  [Medium]  [Group Anagrams]  (https://leetcode.com/problems/group-anagrams/de
 
 Placement Aptitude:
 
-Blood Relations - Medium
-<br>
-Direction-Based Problems - Medium
-<br>
++ Blood Relations - Medium
++ Direction-Based Problems - Medium
+***
 # Week 3 : Linked List :Basics 
 **Topics:**
 
@@ -74,10 +72,9 @@ iv.  [Medium]  [Add Two Numbers]  (https://leetcode.com/problems/add-two-numbers
 <br>
 Placement Aptitude:
 
-Profit and Loss - Medium
-<br>
-Ratio and Proportions - Medium
-<br>
++ Profit and Loss - Medium
++ Ratio and Proportions - Medium
+***
 # Week 4 : Binary Tree :Basics
 **Topics:**
 
@@ -87,139 +84,190 @@ Ratio and Proportions - Medium
 Practice (Coding):
 
 i.  [Easy]  [Binary Tree Inorder Traversal]  (https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
-Symmetric Tree - Easy
-Binary Tree Level Order Traversal - Medium
-Maximum Depth of Binary Tree - Medium
+<br>
+ii.  [Easy]  [Symmetric Tree]  (https://leetcode.com/problems/symmetric-tree/description/)
+<br>
+iii.  [Medium]  [Binary Tree Level Order Traversal]  (https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+<br>
+iv.  [Medium]  [Maximum Depth of Binary Tree]  (https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+<br>
+<br>
 Placement Aptitude:
 
-Pie Charts - Medium
-Bar Graph Analysis - Medium
-Month 2: Intermediate Topics & Placement Mock Tests
-Week 1: Binary Search and Sorting
-Topics:
++ Pie Charts - Medium
++ Bar Graph Analysis - Medium
+***
+# Month 2 :Intermediate Topics & Placement Mock Tests
+# Week 1 : Binary Search and Sorting
+**Topics:**
 
-Binary Search Variations, Sorting Techniques
-Logical Puzzles (Aptitude)
++ Binary Search Variations, Sorting Techniques
++ Logical Puzzles (Aptitude)
+<br>
 Practice (Coding):
 
-Binary Search - Medium
-Search a 2D Matrix - Medium
-Find Peak Element - Medium
-QuickSort Implementation - Medium
+i.  [Medium]  [Binary Search]  (https://leetcode.com/problems/binary-search/description/)
+<br>
+ii.  [Medium]  [Search a 2D Matrix]  (https://leetcode.com/problems/search-a-2d-matrix/description/) 
+<br>
+iii. [Medium]  [Find Peak Element]  (https://leetcode.com/problems/find-peak-element/description/) 
+<br>
+<br>
 Placement Aptitude:
 
-Clock Puzzles - Medium
-Seating Arrangements - Medium
-Week 2: Advanced Arrays & Strings
-Topics:
++ Clock Puzzles - Medium
++ Seating Arrangements - Medium
+***
+# Week 2: Advanced Arrays & Strings
+**Topics:**
 
-Advanced Problems with Sliding Window
-Logical Analysis
++ Advanced Problems with Sliding Window
++ Logical Analysis
++ <br>
 Practice (Coding):
 
-Subarray Sum Equals K - Medium
-Minimum Window Substring - Medium
-Product of Array Except Self - Medium
-Longest Palindromic Substring - Medium
-Week 3: Graph Basics
-Topics:
+i.  [Medium]  [Subarray Sum Equals K]  (https://leetcode.com/problems/subarray-sum-equals-k/description/)
+<br>
+ii.  [Medium]  [Minimum Window Substring]  (https://leetcode.com/problems/minimum-window-substring/description/)
+<br>
+iii.  [Medium]  [Product of Array Except Self]  (https://leetcode.com/problems/product-of-array-except-self/description/)
+<br>
+iv.  [Medium]  [Longest Palindromic Substring]  (https://leetcode.com/problems/longest-palindromic-substring/description/)
+***
+#Week 3: Graph Basics
+**Topics:**
 
-Graph Representations, BFS, DFS
-Basic Graph Algorithms
++ Graph Representations, BFS, DFS
++ Basic Graph Algorithms
+<br>
 Practice (Coding):
 
-Number of Islands - Medium
-Clone Graph - Medium
-Detect Cycle in an Undirected Graph - Medium
-Word Ladder - Medium
-Week 4: Recursion and Backtracking
-Topics:
+i.  [Medium]  [Number of Islands]  (https://leetcode.com/problems/number-of-islands/description/)
+<br>
+ii.  [Medium]  [Clone Graph]  (https://leetcode.com/problems/clone-graph/description/)
+<br>
+iii.  [Medium]  [Word Ladder]  (https://leetcode.com/problems/word-ladder/description/)
+***
+# Week 4: Recursion and Backtracking
+**Topics:**
 
-Basic Recursion and Backtracking
++ Basic Recursion and Backtracking
+<br>
 Practice (Coding):
 
-Subsets - Easy
-Combination Sum - Medium
-Palindrome Partitioning - Medium
-N-Queens - Hard
-Month 3: Dynamic Programming Basics & Optimization
-Week 1: Introduction to DP
-Topics:
+i.  [Easy]  [Subsets]  (https://leetcode.com/problems/subsets/description/) 
+<br>
+ii.  [Medium]  [Combination Sum]  (https://leetcode.com/problems/combination-sum/description/) 
+<br>
+iii.  [Medium]  [Palindrome Partitioning]  (https://leetcode.com/problems/palindrome-partitioning/description/) 
+<br>
+iv.  [Hard]  [N-Queens]  (https://leetcode.com/problems/n-queens/description/)
+***
+# Month 3: Dynamic Programming Basics & Optimization
+# Week 1: Introduction to DP
+**Topics:**
 
-Memoization and Tabulation Basics
++ Memoization and Tabulation Basics
+<br>
 Practice (Coding):
 
-Climbing Stairs - Easy
-House Robber - Medium
-Longest Increasing Subsequence - Medium
-Jump Game - Medium
-Week 2: Intermediate DP Problems
-Topics:
+i.  [Easy]  [Climbing Stairs]  (https://leetcode.com/problems/climbing-stairs/description/) 
+<br>
+ii.  [Medium]  [House Robber]  (https://leetcode.com/problems/house-robber/description/)
+<br>
+iii.  [Medium]  [Longest Increasing Subsequence] (https://leetcode.com/problems/longest-increasing-subsequence/description/)
+<br>
+iv.  [Medium]  [Jump Game]  (https://leetcode.com/problems/jump-game/description/)
+***
+# Week 2: Intermediate DP Problems
+**Topics:**
 
-Knapsack Variants
++ Knapsack Variants
+<br>
 Practice (Coding):
 
-Partition Equal Subset Sum - Medium
-Coin Change - Medium
-Target Sum - Medium
-Minimum Path Sum - Medium
-Week 3: Greedy Algorithms
-Topics:
+i.  [Medium]  [Partition Equal Subset Sum]  (https://leetcode.com/problems/partition-equal-subset-sum/description/)
+<br>
+ii.  [Medium]  [Coin Change]  (https://leetcode.com/problems/coin-change/description/) 
+<br>
+iii.  [Medium]  [Target Sum]  (https://leetcode.com/problems/target-sum/description/)
+<br>
+iv.  [Medium]  [Minimum Path Sum]  (https://leetcode.com/problems/minimum-path-sum/description/) 
+***
+# Week 3: Greedy Algorithms
+**Topics:**
 
-Interval Problems, Activity Selection
++ Interval Problems, Activity Selection
+<br>
 Practice (Coding):
 
-Best Time to Buy and Sell Stock II - Medium
-Jump Game II - Medium
-Task Scheduler - Medium
-Minimum Number of Refueling Stops - Hard
-Week 4: Priority Queues & Heaps
-Topics:
+i.  [Medium]  [Best Time to Buy and Sell Stock II]  (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) 
+<br>
+ii.  [Medium]  [Jump Game II]  (https://leetcode.com/problems/jump-game-ii/description/)
+<br>
+iii.  [Medium]  [Task Scheduler]  (https://leetcode.com/problems/task-scheduler/description/)
+<br>
+iv.  [Hard]  [Minimum Number of Refueling Stops]  (https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) 
+***
+# Week 4: Priority Queues & Heaps
+**Topics:**
 
-Top-K Problems, Min-Heap, Max-Heap
++ Top-K Problems, Min-Heap, Max-Heap
+<br>
 Practice (Coding):
 
-Kth Largest Element in an Array - Medium
-Merge K Sorted Lists - Medium
-Sliding Window Maximum - Medium
-Find Median from Data Stream - Hard
-Month 4: Advanced Topics and Company Patterns
-Week 1: Graphs - Advanced Concepts
-Topics:
+i.  [Medium]  [Kth Largest Element in an Array]  (https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+<br>
+ii.  [Medium]  [Merge K Sorted Lists]  (https://leetcode.com/problems/merge-k-sorted-lists/description/)
+<br>
+iii.  [Medium]  [Sliding Window Maximum]  (https://leetcode.com/problems/sliding-window-maximum/description/)
+<br>
+iv.  [Hard]   [Find Median from Data Stream]  (https://leetcode.com/problems/find-median-from-data-stream/description/)
+***
+# Month 4: Advanced Topics and Company Patterns
+# Week 1: Graphs - Advanced Concepts
+**Topics:**
 
-Topological Sort, Union-Find
++Topological Sort, Union-Find
+<br>
 Practice (Coding):
 
-Alien Dictionary - Medium
-Course Schedule II - Medium
-Redundant Connection - Medium
-Accounts Merge - Medium
-Week 2: Advanced DP
-Topics:
+i. [Medium]  [Alien Dictionary]  (https://leetcode.com/problems/alien-dictionary/description/) 
+<br>
+ii.  [Medium]  [Course Schedule II]  (https://leetcode.com/problems/course-schedule-ii/description/)
+***
+# Week 2: Advanced DP
+**Topics:**
 
-DP on Trees
++ DP on Trees
+<br>
 Practice (Coding):
 
-Longest Path in a Matrix - Hard
-Burst Balloons - Hard
-Maximum Sum of Non-Adjacent Nodes - Hard
-Week 3: Tries Basics
-Topics:
+i.  [Hard]  [Longest Path in a Matrix]  (https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
+<br>
+***
+# Week 3: Tries Basics
+**Topics:**
 
-Trie Operations, String Matching
++ Trie Operations, String Matching
+<br>
 Practice (Coding):
 
-Implement Trie - Medium
-Word Search II - Medium
-Design Search Autocomplete System - Medium
-Months 5 & 6: Revision and Mock Interview Prep
-Week 1–4:
-Weekly Company-Specific Mock Tests: Medium to Hard
-Focused Revision: Review arrays, strings, DP, and graph problems. Medium to Hard
-Mock Interviews: Medium to Hard
-Aptitude Rounds: Continue practice in logical reasoning and data interpretation. Medium
-Tips for Maximum Placement Success:
-Set Daily Goals: Spend 2–4 hours daily on coding problems and aptitude.
-Focus on Weak Areas: Weekly reviews to ensure constant improvement.
-Collaborate: Solve problems in groups for better understanding.
+i.  [Medium]  [Implement Trie]  (https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+<br>
+ii.  [Medium]  [Word Search ]  (https://leetcode.com/problems/word-search/description/) 
+<br>
+iii.  [Medium]  [Design Search Autocomplete System]  (https://leetcode.com/problems/design-search-autocomplete-system/description/)
+<br>
+# Months 5 & 6: Revision and Mock Interview Prep
+# Week 1–4:
+# Weekly Company-
++ Specific Mock Tests: Medium to Hard
++ Focused Revision: Review arrays, strings, DP, and graph problems. Medium to Hard
++ Mock Interviews: Medium to Hard
++ Aptitude Rounds: Continue practice in logical reasoning and data interpretation. Medium
+# Tips for Maximum Placement Success:
++ Set Daily Goals: Spend 2–4 hours daily on coding problems and aptitude.
++ Focus on Weak Areas: Weekly reviews to ensure constant improvement.
++ Collaborate: Solve problems in groups for better understanding.
 Track Progress: Use spreadsheets or apps to monitor topic completion and progress.
