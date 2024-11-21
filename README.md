@@ -4,3 +4,10 @@ This 6-month roadmap is a comprehensive guide to mastering DSA and placement ski
 ***
 # Month 1 : Fundamentals and Aptitude Skills
 **Week 1 : Array and Problem Solving Basics**
+**Topics:**
++ Array Basics, Sorting, Searching
++ Two-pointer, Sliding Window Patterns
++ Introduction to Logical Reasoning
+**Practice(Coding):**
+i.**[Easy]**[Two Sum](https://leetcode.com/problems/two-sum/description/)
+ii.**[Easy]**[Rotate Array](https://leetcode.com/problems/rotate-array/description/)
