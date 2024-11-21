@@ -9,7 +9,7 @@ This 6-month roadmap is a comprehensive guide to mastering DSA and placement ski
 + Two-pointer, Sliding Window Patterns
 + Introduction to Logical Reasoning
 <br>
-**Practice(Coding):**
+**Practice (Coding):**
 <br>
 i.**[Easy]**[Two Sum](https://leetcode.com/problems/two-sum/description/)
 <br>
