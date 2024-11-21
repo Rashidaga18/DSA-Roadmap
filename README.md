@@ -228,7 +228,7 @@ iv.  [Hard]   [Find Median from Data Stream]  (https://leetcode.com/problems/fin
 # Week 1: Graphs - Advanced Concepts
 **Topics:**
 
-+Topological Sort, Union-Find
++ Topological Sort, Union-Find
 <br>
 Practice (Coding):
 
